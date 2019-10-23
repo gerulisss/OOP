@@ -1,4 +1,4 @@
-package lt.bit.java.exercises.day2;
+package lt.bit.java.day2;
 
 class Zmogus {
 
